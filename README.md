@@ -2,7 +2,7 @@
 Controle de Estoque Básico
 Prova bimestral PW
  ideia de um controle de estoque básico! Aqui estão algumas sugestões para desenvolver essa ideia:
-
+Deve poder logar a sua conta para guardar os dados do usuario
 Funcionalidades:
 Cadastro de Produtos: Permitir que o usuário adicione novos produtos com informações como nome, descrição, preço e quantidade.
 
